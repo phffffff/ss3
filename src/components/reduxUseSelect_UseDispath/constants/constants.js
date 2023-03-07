@@ -1,0 +1,9 @@
+const ADD_FAKE = "ADD_FAKE";
+const CHANGE_VALUE = "CHANGE_VALUE";
+const RESET_VALUE = 'RESET_VALUE'
+
+export {
+    ADD_FAKE,
+    CHANGE_VALUE,
+    RESET_VALUE,
+}
